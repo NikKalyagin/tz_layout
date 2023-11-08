@@ -167,7 +167,7 @@
 @media screen and (max-width: 630px) {
   .formContainer {
     width: 90vw;
-    height: 90vh;
+    height: 70vh;
     margin-top: 5vh;
     margin-bottom: 5vh;
     border-radius: 15px;
@@ -191,6 +191,7 @@
     font-size: 14px;
     padding-left: 1%;
     padding-right: 1%;
+    margin-bottom: 5%;
   }
 
   .login {
