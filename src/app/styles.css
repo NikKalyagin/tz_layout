@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Suisseintl";
   src: url("/SuisseIntlRegular.woff2") format("woff2"),
-    url("/Suisse-intl-Regular.ttf") format("truetype");
+    url("/SuisseIntlRegular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -45,7 +45,7 @@
   align-items: flex-start;
   margin-left: 5%;
   margin-bottom: 2%;
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 45px;
   font-style: normal;
   font-weight: 500;
@@ -54,7 +54,7 @@
 
 .label {
   margin-left: 5%;
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   color: #fff;
   font-size: 16px;
   font-style: normal;
@@ -75,7 +75,7 @@
   background: #f4f5f6;
   color: #111;
 
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -95,7 +95,7 @@
   background: #f4f5f6;
   color: #1334d0;
 
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
@@ -115,7 +115,7 @@
   border: 1px solid rgba(255, 255, 255, 0.2);
   color: #fff;
 
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
@@ -139,7 +139,7 @@
 .horizontalLineText {
   margin: 0 10px;
   color: #fff;
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
@@ -152,7 +152,7 @@
   text-decoration: none;
   color: #fff;
   margin-left: 5%;
-  font-family: Suisseintl;
+  font-family: "Suisseintl";
   font-size: 16px;
   font-style: normal;
   font-weight: 450;
